@@ -1,1 +1,2 @@
 new line in a new file
+adding a second line
